@@ -1,4 +1,4 @@
-package com.enablex.demoenablex.activity;
+package com.smartflomeet.demosmartflomeet.activity;
 
 import static android.Manifest.permission.READ_EXTERNAL_STORAGE;
 import static android.Manifest.permission.WRITE_EXTERNAL_STORAGE;
@@ -25,12 +25,12 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.enablex.demoenablex.ApplicationController;
-import com.enablex.demoenablex.R;
-import com.enablex.demoenablex.utilities.Utility;
-import com.enablex.demoenablex.web_communication.WebCall;
-import com.enablex.demoenablex.web_communication.WebConstants;
-import com.enablex.demoenablex.web_communication.WebResponse;
+import com.smartflomeet.demosmartflomeet.ApplicationController;
+import com.smartflomeet.demosmartflomeet.R;
+import com.smartflomeet.demosmartflomeet.utilities.Utility;
+import com.smartflomeet.demosmartflomeet.web_communication.WebCall;
+import com.smartflomeet.demosmartflomeet.web_communication.WebConstants;
+import com.smartflomeet.demosmartflomeet.web_communication.WebResponse;
 
 import org.json.JSONException;
 import org.json.JSONObject;

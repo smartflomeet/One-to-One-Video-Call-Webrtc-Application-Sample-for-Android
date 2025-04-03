@@ -1,4 +1,4 @@
-package com.enablex.demoenablex.activity;
+package com.smartflomeet.demosmartflomeet.activity;
 
 import static android.Manifest.permission.READ_EXTERNAL_STORAGE;
 import static android.Manifest.permission.WRITE_EXTERNAL_STORAGE;
@@ -30,9 +30,9 @@ import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import com.enablex.demoenablex.R;
-import com.enablex.demoenablex.utilities.OnDragTouchListener;
-import com.enablex.demoenablex.utilities.Utility;
+import com.smartflomeet.demosmartflomeet.R;
+import com.smartflomeet.demosmartflomeet.utilities.OnDragTouchListener;
+import com.smartflomeet.demosmartflomeet.utilities.Utility;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;

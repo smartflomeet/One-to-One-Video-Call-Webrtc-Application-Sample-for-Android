@@ -1,4 +1,4 @@
-package com.enablex.demoenablex.utilities;
+package com.smartflomeet.demosmartflomeet.utilities;
 
 import android.view.MotionEvent;
 import android.view.View;

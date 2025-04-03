@@ -1,4 +1,4 @@
-package com.enablex.demoenablex;
+package com.smartflomeet.demosmartflomeet;
 
 import android.app.Activity;
 import android.app.Application;
